@@ -1,0 +1,10 @@
+vendor: OKD Project
+name: OKD by OKD Project
+version: 4.19.0-okd-scos.ec.7
+website_url: https://okd.io
+repo_url: https://github.com/openshift/kubernetes
+documentation_url: https://docs.okd.io
+product_logo_url: https://okd.io/img/brand/mascot/mascot_rocket.svg
+type: Distribution
+description: 'A community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment.'
+contact_email_address: dgilmore@redhat.com
